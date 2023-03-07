@@ -6,6 +6,7 @@ redirect_from:
 - /about.html
 ---
 
+<!--
 <style>
 .column-left{
   float: left;
@@ -23,22 +24,26 @@ redirect_from:
   font-size: 12pt;
 }
 </style>
+-->
 
-<div class="column-left">
+<!--<div class="column-left"> -->
 <p style="font-size: 18pt; font-style: bold;">About Me</p>
 
-Hi there! I am Shriti. I am an Assistant Professor at San Francisco State University in the Department of Computer Science. I completed my Ph.D. from the University of Michigan's School of Information.
+Hi there! I am Shriti. I am an Assistant Professor at San Francisco State University in the Department of Computer Science.
 <br>
 <br>
-I am a Human-Computer Interaction and a Health Informatics researcher. I examine ways in which self-monitoring data is used or could be used by patients with chronic conditions and their clinicians to facilitate the care of chronic health conditions. I conceptualize, design, and evaluate novel tools and approaches to leverage personal health data towards the vision of enabling data-driven care. My research draws from the fields of human-computer interaction, sensemaking, information visualization, medicine, chronic illness management, personal informatics, and health decision-support to raise novel research questions that cut across disciplines.
+I am a Human-Computer Interaction and a Health Informatics researcher. I examine ways in which self-monitoring data is used or could be used by patients with chronic conditions and their clinicians to facilitate the care of chronic health conditions. I conceptualize, design, and evaluate novel tools and approaches to leverage personal health data towards the vision of enabling data-driven care. My research draws from the fields of human-computer interaction, information visualization, clinical-decision support, personal informatics, and chronic illness management to raise novel research questions that cut across disciplines. My work has been published in top Human-Computer Interaction venues including ACM CHI, IMWUT, and CSCW.
 <br>
 <br>
-To answer interdisciplinary research questions, I use a combination of qualitative methods that include interviews, observations, focus groups, visualization-based think aloud sessions, task-driven visualization review, and user-centered design and evaluation. My work has been published in top Human-Computer Interaction venues including ACM CHI, IMWUT, and CSCW.  
-</div>
+I have been fortunate to attend several Universities. I completed my Ph.D. from the Univerity of Michigan where I was supervised by Prof. Mark Newman. Prior to that, I got my master's from UC Irvine. I completed a bachelor's in Computer Science from the Indian Institute of Technology (IIT) BHU in India.  
 
-<div class="column-right">
+<!--</div>-->
+
+<!--<div class="column-right">-->
 <p style="font-size: 18pt; font-style: bold;">News</p>
 
+03/07/2023    &nbsp;&nbsp;Paper accepted at CHI 2023.  
+<br>
 10/06/2022    &nbsp;&nbsp;Received NSF ADVANCE Scholarship Hub Award at SFSU.  
 <br>
 08/10/2022    &nbsp;&nbsp;Joined SF State as Assistant Prof in Comp Sci.  
@@ -57,4 +62,4 @@ To answer interdisciplinary research questions, I use a combination of qualitati
 <br>
 03/14/2021    &nbsp;&nbsp;Received the Rackham Predoctoral Fellowship award!  
 
-</div>
+<!--</div>-->
