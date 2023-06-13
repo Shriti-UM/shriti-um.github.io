@@ -13,6 +13,16 @@ author_profile: yes
 
 <p style="font-size: 18pt; font-style: bold;">Publications</p>
 
+**“It can bring you in the right direction”: Episode-Driven Data Narratives to Help Patients Navigate Multidimensional Diabetes Data to Make Care Decisions**\
+Shriti Raj, Toshi Gupta, Joyce Lee, Matthew Kay, and Mark W. Newman.\
+CHI 2023 [ACM](https://dl.acm.org/doi/10.1145/3544548.3581073)
+
+
+**Envisioning the Design Space of AI-Powered Personal Health Data Interaction**\
+Shriti Raj and Mark W. Newman.\
+CHI 2022 Workshop on Grand Challenges in Personal Informatics and AI [PDF](https://piandaichi2022.weebly.com/uploads/1/3/9/4/139432952/raj.pdf)
+
+
 **Toward Lightweight In-situ Self-reporting: An Exploratory Study of Alternative Smartwatch Interface Designs in Context.**\
 Xinghui Yan, Shriti Raj, Bingjian Huang, Sun Young Park, and Mark W. Newman.\
 IMWUT 2020  [ACM](https://dl.acm.org/doi/abs/10.1145/3432212)

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shriti Raj"
 title_separator          : "-"
 name                     : &name "Shriti Raj"
-description              : &description "Researcher at University of Michigan"
+description              : &description "Researcher and Educator"
 url                      : https://www.shritiraj.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Shriti-UM/shriti-um.github.io"
@@ -83,7 +83,7 @@ author:
   name             : "Shriti Raj"
   avatar           : "SR_pic.jpeg"
   bio              : "HCI.Data.Health"
-  location         : "San Francisco State University, California"
+  location         : "SF State"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=JX6DvU4AAAAJ"
   email            :
