@@ -29,7 +29,7 @@ redirect_from:
 <!--<div class="column-left"> -->
 <p style="font-size: 18pt; font-style: bold;">About Me</p>
 
-Hi there! I am Shriti. I am an Assistant Professor at San Francisco State University in the Department of Computer Science.
+Hi there! I am Shriti. I am an Assistant Professor at Stanford University in the Department of Medicine Center for Biomedical Informatics Research and the Institute for Human-Centered Artificial Intelligence.
 <br>
 <br>
 I am a Human-Computer Interaction researcher with a primary focus on healthcare. I examine ways in which self-monitoring data is used or could be used by patients with chronic conditions and their clinicians to facilitate the care of chronic health conditions. I conceptualize, design, and evaluate novel tools and approaches to leverage personal health data towards the vision of enabling data-driven care. My research draws from the fields of human-computer interaction, information visualization, clinical-decision support, personal informatics, and chronic illness management to raise novel research questions that cut across disciplines. My work has been published in top Human-Computer Interaction venues including ACM CHI, IMWUT, and CSCW.

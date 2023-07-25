@@ -11,4 +11,4 @@ redirect_from:
 
 [PDF](https://shriti-um.github.io/files/CV_Sep_2022.pdf)
 
-<object data="https://shriti-um.github.io/files/CV_Sep_2022.pdf" width="1000" height="1000" type='application/pdf'></object>
+{% pdf "https://shriti-um.github.io/files/CV_Sep_2022.pdf" %}
